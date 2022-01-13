@@ -1,2 +1,6 @@
 # career2022
-2022배울것들, 배운것들
+21.09.01~
+## 1주차
+<details>
+  <summary>0103</summary>
+</details>
