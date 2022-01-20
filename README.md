@@ -16,3 +16,9 @@
     * svm인증서 레코드생성 해서 하루종일 기다리기   
     * https://aws.amazon.com/ko/premiumsupport/knowledge-center/resolve-cloudfront-bad-request-error/   
 </details>
+
+## 20주차
+<details>
+  <summary>0117</summary>
+  
+</details>
