@@ -26,5 +26,7 @@
 ## 21주차
 <details>
   <summary>0124</summary>
+  
   - [ ] localStorage 로컬에 데이터 저장하기
+  
 </details>
