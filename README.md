@@ -57,6 +57,6 @@
 <details>
   <summary>0125</summary>
   
-    - [ ] 정처기공부
+  - [ ] 정처기공부
   
 </details>
