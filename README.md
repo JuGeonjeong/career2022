@@ -48,6 +48,15 @@
   * 저장된 키/값 쌍의 개수   
     * localStorage.length;
   
-  - [ ] localStorage
+  - [ ] 불필요한 api 호출 -> 값이없다면 서버에 요청하자
+  ![스크린샷 2022-01-25 오전 11 06 08](https://user-images.githubusercontent.com/81910342/150897474-ff9c3c2c-7dcb-4152-ae82-b38bd8c21690.png)
+
+  
+</details>
+
+<details>
+  <summary>0125</summary>
+  
+    - [ ] 정처기공부
   
 </details>
