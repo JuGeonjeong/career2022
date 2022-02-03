@@ -13,7 +13,7 @@
   <summary>0110</summary>
   
   - [ ] 프로젝트 마무리
-  - [ ] 정보처리시
+  - [ ] 정보처리시작
   - [ ] aws 정적페이지 배포하기
   
   * cafe24 도메인 aws에서 배포하기   
@@ -65,5 +65,19 @@
   <summary>0126</summary>
   
   - [ ] 
+  
+</details>
+
+## 21주차
+<details>
+  <summary>0203</summary>
+  
+  - [ ] replace 정규식
+  * replace
+    * .replace("찾을 문자열", "변경할 문자열")
+  
+  - [ ] replace 정규식
+  * replace
+    * .replace("찾을 문자열", "변경할 문자열")
   
 </details>
